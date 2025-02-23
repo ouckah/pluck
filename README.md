@@ -12,3 +12,11 @@ This was a submission for Apple's 2025 Student Swift Challenge. Wanted to make a
     <img src="https://github.com/user-attachments/assets/f327d6d1-ea29-4a96-b490-b61379050113" width="30%">
     <img src="https://github.com/user-attachments/assets/035a7a4f-1e04-4310-aa1e-34d3b7788fc4" width="30%">
 </p>
+
+## Run Guide
+To run this project yourself locally, clone it to your local machine
+```
+git clone https://github.com/ouckah/pluck.git
+```
+
+Then open **Xcode** (yes, you need an Apple device for this), and either view the previews OR use a simulator.
